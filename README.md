@@ -21,9 +21,9 @@ Write **2 solutions** that display all the Markoff-Fibonacci Numbers that are le
 
 ### Markoff Numbers
 The Markoff equation is given by:
-$$
+
 x² + y² + z² = 3xyz (in positive integers x ≤ y ≤ z)
-$$
+
 A **Markoff number** is any positive integer that is a component of some solution triple to the Markoff equation.  
 The first few Markoff numbers are: 1, 2, 5, 13, 29, 34, 89, 169, 194, 233, 433, 610, ...
 
