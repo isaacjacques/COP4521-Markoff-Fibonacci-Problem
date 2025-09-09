@@ -17,6 +17,14 @@ Write **2 solutions** that display all the Markoff-Fibonacci Numbers that are le
 
 ---
 
+## Sample Run
+
+Below is a screenshot of the test script comparing the different solutions:
+
+![Sample Run](img/sample_run.JPG)
+
+---
+
 ## Background
 
 ### Markoff Numbers
